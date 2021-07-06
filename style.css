@@ -200,3 +200,7 @@ img{
     letter-spacing: 1px;
     color: #9abcd8;
 }
+.footer .copy{
+    float: right;
+    margin-right: 20px;
+}
